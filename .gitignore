@@ -1,0 +1,13 @@
+RemoteSystemsTempFiles
+.metadata
+.idea
+.settings
+*/.settings
+target
+*/target
+bin
+*/bin
+*.log
+*/*.log
+*.iml
+
