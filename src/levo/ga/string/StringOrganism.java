@@ -1,4 +1,4 @@
-package levo.ga;
+package levo.ga.string;
 
 public class StringOrganism
 {

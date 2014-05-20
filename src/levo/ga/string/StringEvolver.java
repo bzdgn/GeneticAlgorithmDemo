@@ -1,9 +1,9 @@
 //This is a modified modular version of a simple GA implementation based on a code piece that I've
 //Find on net. See: The https://github.com/calebwherry/String-Evolver
 
-package levo.ga;
+package levo.ga.string;
 
-import	levo.ga.StringOrganism;
+import levo.ga.string.StringOrganism;
 
 import java.util.Random;
 
